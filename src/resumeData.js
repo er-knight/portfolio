@@ -31,7 +31,6 @@ let resumeData = {
       "YearOfPassing":""
     }
   ],
-  "skillsDescription":"Here are some of my Technical Skills",
   "skills":[
     {
       "skillname":"Python"
@@ -59,22 +58,26 @@ let resumeData = {
     {
       "name":"contests-list",
       "description":"A webiste which shows schedule of coding contests from various platforms.",
-      "imgurl":"/images/portfolio/coffee.jpg"
+      "imgurl":"/images/portfolio/project.jpg",
+      "projecturl":"https://github.com/er-knight/contests-web"
     },
     {
       "name":"password-manager",
       "description":"A command-line tool to manage passwords",
-      "imgurl":"images/portfolio/console.jpg"
+      "imgurl":"images/portfolio/project.jpg",
+      "projecturl":"https://github.com/er-knight/password-manager"
     },
     {
       "name":"alarm-system",
       "description":"A system which notifies about movement using OpenCV",  
-      "imgurl":"images/portfolio/farmerboy.jpg"
+      "imgurl":"images/portfolio/project.jpg",
+      "projecturl":"https://github.com/er-knight/machine-learning-projects/tree/main/motion-detection-alarm-system"
     },
     {
       "name":"photo-magic",
       "description":"A tool to encrypt/decrypt image using random number",
-      "imgurl":"images/portfolio/origami.jpg"
+      "imgurl":"images/portfolio/project.jpg",
+      "projecturl":"https://github.com/er-knight/photo-magic-archive"
     }
   ]
 }
